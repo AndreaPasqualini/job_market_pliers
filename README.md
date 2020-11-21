@@ -45,3 +45,5 @@ where
 Check out the job postings some days before their application deadlines. This is important for two reasons.
 1. Some vacancies require that you apply via email or via their own website, and therefore you need your letters of recommendation to be sent by the deadline.
 1. Sometimes the EJM and JOE websites become painfully slow. An example was the EJM website on November 15, 2020, where a lot of people connected (a lot of deadlines that day). The server behind EJM could just not keep up with everybody. This is even more relevant if you use the option `open_in_browser`.
+
+> ⚠️ This code does NOT filter out duplicate entries across websites. It is often the case that employers post the same vacancy both on EJM and JOE. You will find these duplicates in what this code returns. It is up to you to figure it out. I have found no reliable criterion to flag duplicates.
